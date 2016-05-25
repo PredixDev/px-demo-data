@@ -1,3 +1,7 @@
+v0.0.9
+==================
+* Added threshold dataset
+
 v0.0.8
 ==================
 * Added additional event
