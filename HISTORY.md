@@ -1,3 +1,7 @@
+v0.0.10
+==================
+* Added new datasets in new data type
+
 v0.0.9
 ==================
 * Added threshold dataset
