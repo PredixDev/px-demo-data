@@ -1,3 +1,7 @@
+v0.0.12
+==================
+* Fixed formating of timeseries datasets
+
 v0.0.11
 ==================
 * Added new timeseries data in new data type
