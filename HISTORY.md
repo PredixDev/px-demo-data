@@ -1,6 +1,6 @@
-v0.0.12
+v0.0.13
 ==================
-* Fixed formating of timeseries datasets
+* Changed formating again
 
 v0.0.11
 ==================
