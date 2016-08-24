@@ -1,3 +1,7 @@
+v0.0.15
+==================
+* New dataset for parallel charts demo
+
 v0.0.14
 ==================
 * Updated large dataset time to milisec timestamp
