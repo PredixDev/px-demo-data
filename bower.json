@@ -5,7 +5,6 @@
     "GE"
   ],
   "description": "sample test data",
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
