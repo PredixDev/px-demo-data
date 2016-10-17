@@ -1,6 +1,16 @@
-v0.0.16
+
+v0.0.18
 ==================
 * New small datasets
+
+=======
+v0.0.17
+==================
+* Remove string quotes for polar data
+
+v0.0.16
+==================
+* Data for polar
 
 v0.0.15
 ==================
