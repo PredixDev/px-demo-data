@@ -1,3 +1,7 @@
+v0.0.16
+==================
+* New small datasets
+
 v0.0.15
 ==================
 * New dataset for parallel charts demo
