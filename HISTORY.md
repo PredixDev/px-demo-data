@@ -1,3 +1,7 @@
+v0.0.21
+==================
+* added some random sets
+
 v0.0.20
 ==================
 * deleted mysterious quotes
