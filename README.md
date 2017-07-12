@@ -1,8 +1,8 @@
-# Px-Demo-data
+# px-demo-data
 
 ## Overview
 
-Px-Demo-Data repo contains the test data used by all the px data vis components.
+The px-demo-data repo contains the test data used by all the px data vis components.
 This represents the expected data format by the data vis components.
 
 ## Usage
