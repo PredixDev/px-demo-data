@@ -1,3 +1,7 @@
+v0.0.22
+==================
+* added categories to d4*1000
+
 v0.0.21
 ==================
 * added some random sets
